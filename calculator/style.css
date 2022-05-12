@@ -1,0 +1,13 @@
+table{
+    background-color:aqua;
+}
+input{
+    /* padding: 50px; */
+    text-align: right;
+    height:30px;
+}
+button{
+    height: 50px;
+    width: 80px;
+    background-color: rgb(152, 228, 228);
+}
